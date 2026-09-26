@@ -20,7 +20,7 @@ Current focus:
 - recording failures, lineage, and reconciliation evidence;
 - documenting trade-offs and reproducible tests.
 
-## Verified certifications
+## Certifications
 
 - [AWS Certified Data Engineer – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/4cc08319f04c49fd97aa2f8bf2718cc7)
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/750ae9e6-c31c-4230-8587-cbf24fa2dfbb)
